@@ -1,0 +1,104 @@
+- # [[Post Lambda Plan]]
+- # Legend
+    - Resource types:
+        - #Resources (Books, Cheat Sheets, Articles)
+        - #Courses
+        - #Videos
+        - #Practice
+    - Topics:
+        - #Statistics
+        - #Visualizations
+        - #SQL
+        - #MLE
+        - #Other
+- # Things to practice
+    - ## #Statistics
+        - {{[[TODO]]}} [Statistics in Plain English](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fcjakuc%2FT1psd2tJpv.epub?alt=media&token=ee329841-b842-4696-aa67-4d2d7c319c4a) (link is a PDF download, may or may not be legal...) #Resources #Books #SIPE
+        - {{[[TODO]]}} [Descriptive and Inferential Statsquest videos](https://docs.google.com/document/d/1555EK3d7RFJ8HcXfJVERzsRLVp0EdvVZzOBECOjCP2g/edit?usp=sharing) #Videos
+    - ## #Visualizations
+        - {{[[TODO]]}} [Matplotlib tutorial series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) #Videos
+        - [Top 50 matplotlib visualizations with full code](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/) #Resources
+        - [Chart Guide](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png) #Resources
+            - Similar format to the top 50 visualizations without the code
+        - [Matplotlib style sheet reference](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html) #Resources
+        - [R's ggplot2 in Python](https://towardsdatascience.com/how-to-use-ggplot2-in-python-74ab8adec129) #Resources
+    - ## #SQL
+        - Supplemental resources
+            - {{[[TODO]]}} [Free Udacity course - "generally high yield"](https://www.udacity.com/course/sql-for-data-analysis--ud198) #Courses #CurrentCourse
+            - {{[[TODO]]}} [Joins 1](https://www.youtube.com/watch?v=9yeOJ0ZMUYw) and [Joins 2](https://www.youtube.com/watch?v=Jh_pvk48jHA) - "favorite tutorials" #Videos
+            - {{[[TODO]]}} [Helpful YouTube channel for supplemental explanations](https://www.youtube.com/channel/UCOqXBtP8zUeb3jqeJ7gS-EQ) #Videos
+        - {{[[TODO]]}} [SQLBolt](https://sqlbolt.com/lesson) #Practice
+            - Do the practice problems and complete the whole thing before moving on
+        - {{[[TODO]]}} [SQLZoo](https://sqlzoo.net/) #Practice #Resources
+            - Loaded with practice problems and has video explanations for demo problems
+            - [ModeSQL - reference for if SQLZoo isn't making sense](https://mode.com/sql-tutorial/) #Resources
+        - {{[[TODO]]}} [w3school](https://www.w3resource.com/sql-exercises/) #Practice #Resources
+            - Exercises to really make sure you have the ideas nailed down
+            - **Joins, subqueries, and aggregations are problem sets that you shouldn't miss**
+    - ## #MLE (haven't jumped into any of these yet but they look very comprehensive)
+        - {{[[TODO]]}} [Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) #Courses
+            - "Should take 2-4 weeks"
+            - "Deploy model complete with complex API, error handling, and OOP pipeline"
+            - "This course doubles the value of Lambda by putting everything that you’ve learned together. I cannot recommend it enough, and labs is the perfect time to do it."
+            - "Actually watch all of the videos, actually code it up by hand. DO NOT just copy and paste the code."
+        - {{[[TODO]]}} [Fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) #Courses
+            - "This course abstracts away complex pytorch code and slowly introduces theory, leaving you with a fun, practical applied deep learning course. It is most valuable if you do your own projects using the tools introduced in the lectures and notebooks. Just watching the lectures and running his notebooks alone is not enough."
+            - "Fast AI V3 Part 1
+                - Should take 2-4 weeks
+                - Watch video 1 and 2 and then do assignment 2 and deploy it
+                - Watch video 3 and do assignment 3 and deploy
+                - Watch video 4 and use it on a previous tabular data project where another model was used
+                    - Writeup on compare and contrast
+                - Watch videos 5-7 for theory and make sure you understand everything he’s talking about"
+        - {{[[TODO]]}} [Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) #Resources
+            - GitHub page with MANY resources for things like pipelines & ETL, explaining models, reproducability, feature engineering, outlier & anomaly detection, and many more
+        - {{[[TODO]]}} [Google Developer's Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) #Resources
+            - Fairly in depth and step by step guide to the entire process of applied machine learning, starting from knowing when the time is right to begin building, to slowing growth, optimization refinement, and complex models
+        - {{[[TODO]]}} [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) #Resources
+            - GitHub page aimed at being "an engineering guideline for building production-level deep learning systems which will be deployed in real world applications"
+            - Last commits are 6-9 months ago
+        - {{[[TODO]]}} [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) #Resources
+            - GitHub page which is "a curated list of applied machine learning and data science notebooks and libraries across different industries"
+            - Separated by industry with industry-specific resources, projects, and sometimes data
+            - Includes a "Career Section" with links to different platforms and another repo dedication to data science careers information
+        - {{[[TODO]]}} [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design) #Resources
+            - GitHub page for a booklet covering project setup, data pipelines, modeling, and serving
+            - "It comes with links to practical resources that explain each aspect in more details. It also suggests case studies written by machine learning engineers at major tech companies who have deployed machine learning systems to solve real-world problems. At the end, the booklet contains 27 open-ended machine learning systems design questions that might come up in machine learning interviews. The answers for these questions will be published in the book Machine Learning Interviews."
+        - {{{[[TODO]]}}}} [Awesome Full Stack Machine Learning Engineering Courses](https://github.com/leehanchung/awesome-full-stack-machine-courses) #Resources
+            - GitHub page
+            - "This is curated list of publicly accessible machine learning courses from top universities such as Berkeley, Harvard, Stanford, and MIT. It also includes machine learning project case studies from large and experienced companies. The list is broken down by topics and areas of specializations. Python is the preferred language of choice as it covers end-to-end machine learning engineering."
+    - ## #Other things I felt were worthy bookmarks while going through Lambda
+        - {{[[TODO]]}} Practices of the Python Pro #Resources #Books #PotPP
+            - PDF is too big to post here
+            - Software engineers written for people who aren't trained as SWEs
+            - {{{[[DONE]]}}}} Ch 2
+            - {{[[DONE]]}} Ch 3
+            - Ch 4
+        - {{{[[DONE]]}}}} Time Series 
+            - [Rec from Peyton](https://www.youtube.com/watch?v=FsroWpkUuYI) #Videos
+            - [Rec from Aaron Gallant](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) #Resources
+        - {{[[TODO]]}} [Udacity: Spark Course - Rec by Peyton for DE](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) #Courses
+            - Free course covering working with big data using PySpark
+        - [Data Science workflow chart from Rutgers](http://saedsayad.com/data_mining_map.htm) #Resources
+            - Useful for figuring out which ML technique to use
+        - {{[[TODO]]}} [SWE Detailed Interview Guide](https://github.com/jwasham/coding-interview-university) #Resources #Practice
+            - More generic SWE than data focused but has good resources for specific SWE concepts
+        - {{{[[DONE]]}}}} [Breakdown of Flask vs FastAPI](https://amitness.com/2020/06/fastapi-vs-flask/) #Resources
+            - Great breakdown with working examples of how to do the same thing with both frameworks
+        - [SKLearn Metrics](https://scikit-learn.org/stable/modules/classes.html) #Resources
+        - [LeetCode - All Problems](https://leetcode.com/problemset/all/) #Practice #Leetcode
+        - [The Data Warehouse Toolkit](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fcjakuc%2FriUEe6SLEX.pdf?alt=media&token=2becc790-feb1-4a87-b8fc-720b1eb0e7aa) #Resources #Books #DWT
+        - [DE Roadmap](https://github.com/datastacktv/data-engineer-roadmap) #Resources 
+            - Called AWS centric on r/dataengineering but is still very comprehensive
+        - [Jordan Kern YouTube - Energy Focused Stats/Finance/Modeling](https://www.youtube.com/user/1008arnette/videos) #Videos #Resources
+            - MUST WATCH!
+        - [Detailed Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+            - Includes:
+                - Templates, Web Forms, Databases, User Logins, Profile Pages and Avatars, Error Handling, and more
+        - [Relational vs Document Databases](https://developer.couchbase.com/comparing-document-vs-relational/)
+        - Interview Materials:
+            - [Theoretical DS Interview Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
+            - [DS Complete Interviewer Guide](https://blog.pramp.com/data-science-the-complete-interviewer-guide-7872aebf23ab)
+            - [How to Succeed in a DS Interview](https://blog.pramp.com/how-to-succeed-in-a-data-science-interview-27553ab69d8a)
+            - [Anatomy of the DS Interview](https://blog.pramp.com/the-anatomy-of-a-data-science-interview-7d3f38942751)
+        - [Quizlet with DS terms](https://quizlet.com/510881009/data-science-flash-cards/?x=1qqt)
